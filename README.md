@@ -1,14 +1,7 @@
 
-Notifications Web Page
+## Notifications Web Page
 This repository contains the code for a notifications web page. It displays notifications for various activities such as reactions, follows, messages, and group interactions.
 
-## Table of Contents
-## Project Structure
-Features
-Usage
-Contributing
-License
-Project Structure
 ## The project consists of the following files:
 
 index.html: This is the main HTML file that structures the notifications web page.
@@ -24,8 +17,8 @@ Responsive Design: The web page is designed to be responsive, adapting to differ
 Usage
 To use this project, simply clone the repository and open the index.html file in a web browser.
 
-
-git clone https://github.com/your-username/notifications-web-page.git
-cd notifications-web-page
+git clone(https://github.com/jethcherry/Notification)
 
 
+
+v
